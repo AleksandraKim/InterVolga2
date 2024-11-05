@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AleksandraKim/InterVolga2.git/static/css/main.63876769.css",
+    "main.js": "/AleksandraKim/InterVolga2.git/static/js/main.d7b3fc09.js",
+    "static/js/453.ed3810f9.chunk.js": "/AleksandraKim/InterVolga2.git/static/js/453.ed3810f9.chunk.js",
+    "static/media/image.jpg": "/AleksandraKim/InterVolga2.git/static/media/image.0fe60d1339a6a7dd61f4.jpg",
+    "index.html": "/AleksandraKim/InterVolga2.git/index.html",
+    "main.63876769.css.map": "/AleksandraKim/InterVolga2.git/static/css/main.63876769.css.map",
+    "main.d7b3fc09.js.map": "/AleksandraKim/InterVolga2.git/static/js/main.d7b3fc09.js.map",
+    "453.ed3810f9.chunk.js.map": "/AleksandraKim/InterVolga2.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63876769.css",
+    "static/js/main.d7b3fc09.js"
+  ]
+}
