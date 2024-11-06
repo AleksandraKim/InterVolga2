@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/AleksandraKim/InterVolgaSecond.git",
+  "homepage": "https://aleksandrakim.github.io/InterVolga2",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
