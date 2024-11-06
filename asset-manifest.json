@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/InterVolga2/static/css/main.63876769.css",
+    "main.js": "/InterVolga2/static/js/main.0f069c36.js",
+    "static/js/453.ed3810f9.chunk.js": "/InterVolga2/static/js/453.ed3810f9.chunk.js",
+    "static/media/image.jpg": "/InterVolga2/static/media/image.0fe60d1339a6a7dd61f4.jpg",
+    "index.html": "/InterVolga2/index.html",
+    "main.63876769.css.map": "/InterVolga2/static/css/main.63876769.css.map",
+    "main.0f069c36.js.map": "/InterVolga2/static/js/main.0f069c36.js.map",
+    "453.ed3810f9.chunk.js.map": "/InterVolga2/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63876769.css",
+    "static/js/main.0f069c36.js"
+  ]
+}
